@@ -1,5 +1,5 @@
-# Autonomous Drone Navigation Using Computer Vision and Convolutional Neural Network Navigation
-Hello everyone. The creators of this project were Surin Wettimuny and Nick Boukens. Our project was on Autonomous Drone Navigation Using Computer Vision and Convolutional Neural Network Navigation. The goal of this project was to address the limitations of the traditional implementation of controlling a drone with a remote controller.
+# Autonomous Drone Control Using Gesture-Based Computer Vision and Convolutional Neural Network Navigation
+Hello everyone. The creators of this project were Surin Wettimuny and Nick Boukens. Our project is on Autonomous Drone Control Using Gesture-Based Computer Vision and Convolutional Neural Network Navigation. The goal of this project was to address the limitations of the traditional implementation of controlling a drone with a remote controller.
 
 This README.md file will contain all the information needed to actually execute our program on your devices.
 
