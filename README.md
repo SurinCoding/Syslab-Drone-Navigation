@@ -1,5 +1,5 @@
 # Syslab-Drone-Navigation
-Hello everyone. The creators of this project were Surin Wettimuny and Nick Boukens. Our project was on Autonomous Drone Navigation Using Computer Vision and Convolutional Neural Network Navigation. The goal of this project was to address the limitations with the traditional implementation of controlling a drone with a remote controller.
+Hello everyone. The creators of this project were Surin Wettimuny and Nick Boukens. Our project was on Autonomous Drone Navigation Using Computer Vision and Convolutional Neural Network Navigation. The goal of this project was to address the limitations of the traditional implementation of controlling a drone with a remote controller.
 
 This README.md file will contain all the information needed to actually execute our program on your devices.
 
@@ -8,7 +8,7 @@ This README.md file will contain all the information needed to actually execute 
 
 CNNClassFINAL.py --> This is the class that we made that stores information on the Convolutional Neural Network. This is referred to in FINAL_CV_ML.py
 
-HandsOnlyCode.py --> This file contains single-action recognition mode and hand tracking without the drones. The evaluated frames are outputted onto the screen, allowing you to see what is recognized without observing drone movement.
+HandsOnlyCode.py --> This file contains single-action recognition mode and hand tracking without the drones. The evaluated frames are output to the screen, allowing you to see what is recognized without observing drone movement.
 
 CNN_FINAL.py --> This was the actual Convolutional Neural Network that generated the weights that our drone uses in the Convolutional Neural Network mode of navigation
 
@@ -30,7 +30,7 @@ Training_images_part_ae --> One portion of the training images for our Convoluti
 
 Testing_images --> These are the images that were used to test our Convolutional Neural Network
 
-**Note:** You can download Training_images_part_aa, Training_images_part_ab, Training_images_part_ac, Training_images_part_ad, Training_images_part_ae, and Testing_images at the following GitHub link: https://github.com/NickBoukens/Syslab-Drone-Navigation-Gesture-Based-ML
+**Note:** You can download Training_images_part_aa, Training_images_part_ab, Training_images_part_ac, Training_images_part_ad, Training_images_part_ae, and Testing_images at the following GitHub link: https://github.com/NickBoukens/Syslab-Drone-Navigation-Gesture-Based-ML. The paths of these images will need to be adjusted based on the location on your computer.
 
 I cannot attach it here because of the storage capabilities of my computer.
 
