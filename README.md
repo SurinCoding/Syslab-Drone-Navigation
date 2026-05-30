@@ -30,6 +30,10 @@ Training_images_part_ae --> One portion of the training images for our Convoluti
 
 Testing_images --> These are the images that were used to test our Convolutional Neural Network
 
+**Note:** You can download Training_images_part_aa, Training_images_part_ab, Training_images_part_ac, Training_images_part_ad, Training_images_part_ae, and Testing_images at the following GitHub link: https://github.com/NickBoukens/Syslab-Drone-Navigation-Gesture-Based-ML
+
+I cannot attach it here because of the storage capabilities of my computer.
+
 ## Package Installations
 To run this code, a few packages need to be installed locally on your device. Enter the following commands in a terminal
 
